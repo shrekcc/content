@@ -65,6 +65,10 @@
     "@sqlite.org/sqlite-wasm": "3.50.4-build1",
     "@standard-schema/spec": "^1.1.0",
     "@webcontainer/env": "^1.1.1",
+    
+    "@nuxt/content": "^2.13.0",
+    "nuxt": "^3.10.0",
+
     "c12": "^3.3.4",
     "chokidar": "^5.0.0",
     "consola": "^3.4.2",
